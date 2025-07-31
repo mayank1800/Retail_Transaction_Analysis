@@ -60,7 +60,7 @@ Skill Used: Power BI (Data Model, Relationships, DAX)
 
 **Key Insights:**
 
-Customer traffic peaks between 7PM and 10PM, with the highest activity aorund 7:30PM.
+Customer traffic peaks between 7PM and 9PM, with the highest activity aorund 7:30PM.
 
 Majority of purchases occur on weekends.
 
