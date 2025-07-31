@@ -69,7 +69,5 @@ Over 90% of customers are new, highlighting strong acquisition efforts but oppor
 Top 3 customers contribute significantly to total revenue.
 
 Month-over-month trends reveal growth in revenue and customer traffic, with visible churn patterns.
-![First image description](/Users/mayanksinghrawat/Desktop/Projects/Retail_Analysis/Revenue Analysis.png)
-![Second image description](/Users/mayanksinghrawat/Desktop/Projects/Retail_Analysis/Customer Behaviour.png)
 
 
